@@ -1,0 +1,33 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Belhaven Brewery,East Lothian,Scottish Ale,3.9%,?,?,british_ale|scottish_style_light_ale
+Belhaven Brewery,East Lothian,St. Andrews Ale,4.6%,?,?,?
+Belhaven Brewery,East Lothian,Twisted Thistle India Pale Ale,6.1%,?,?,north_american_ale|american_style_pale_ale
+Belhaven Brewery,East Lothian,Wee Heavy,6.5%,?,?,british_ale|scotch_ale
+Broughton Ales,The Borders,Black Douglas,?,?,?,?
+Broughton Ales,The Borders,Border Gold Oranic Ale,6%,?,?,north_american_ale|golden_or_blonde_ale
+Broughton Ales,The Borders,Kinmount Willie Stout,?,?,?,north_american_ale|american_style_stout
+Broughton Ales,The Borders,Old Jock Ale,?,?,?,?
+Caledonian Brewing,Edinburgh,Double Dark,?,?,?,?
+Caledonian Brewing,Edinburgh,Golden Promise Traditional Scottish Ale,?,?,?,?
+Harviestoun Brewery,Alva,Bitter and Twisted,3.8%,?,?,?
+Harviestoun Brewery,Alva,Old Engine Oil,6%,?,?,irish_ale|porter
+Harviestoun Brewery,Alva,Old Engine Oil Special Reserve (aged in malt whisky casks),8%,?,?,?
+Inveralmond Brewery,Perth,Blackfriar,7%,?,?,british_ale|scotch_ale
+Inveralmond Brewery,Perth,Lia Fail Stone of Destiny Ale,4.7%,?,?,?
+Isle of Skye Brewing Company,Isle of Skye,Wee Beast,7%,?,?,british_ale|scotch_ale
+Maclay and Co.,Clackmannan,Eighty Shilling Export Ale,?,?,?,?
+Maclay and Co.,Clackmannan,Scotch Ale,?,?,?,?
+Maclay and Co.,Clackmannan,The Only Oat Malt Stout In The World,?,?,?,north_american_ale|american_style_stout
+Maclay and Co.,Clackmannan,Wallace,?,?,?,?
+Orkney Brewery,Orkney,Dark Island,4.6%,?,?,british_ale|scottish_style_light_ale
+Orkney Brewery,Orkney,Dragonhead Stout,4%,?,?,north_american_ale|american_style_stout
+Orkney Brewery,Orkney,Red MacGregor,5%,?,?,british_ale|scotch_ale
+Orkney Brewery,Orkney,Skullsplitter Ale,8.5%,?,?,british_ale|scotch_ale
+Tennent Caledonian Brewery,Glasgow,Lager,?,?,?,north_american_lager|american_style_lager
+Traquair House Brewery,Innerleithen,Bear Ale,5%,?,?,?
+Traquair House Brewery,Innerleithen,House Ale,7.2%,?,?,british_ale|scotch_ale
+Traquair House Brewery,Innerleithen,Jacobite Ale,8%,?,?,?
+Williams Brothers Brewing Company,Alloa,Alba Scots Pine Ale,7.5%,?,?,?
+Williams Brothers Brewing Company,Alloa,Fraoch Heather Ale,5%,?,?,?
+Williams Brothers Brewing Company,Alloa,Grozet Gooseberry and Wheat Ale,5%,?,?,other_style|light_american_wheat_ale_or_lager
+Williams Brothers Brewing Company,Alloa,Kelpie Seaweed Ale,4.4%,?,?,?

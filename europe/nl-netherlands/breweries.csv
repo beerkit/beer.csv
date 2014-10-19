@@ -1,13 +1,13 @@
-Name,Address,City,State,Code,Website
-Amstel Brouwerij,Antwoordnummer 7181,Amsterdam,?,?,?
-Bierbrouwerij Bavaria,Burg. van den Heuvelstraat 35,Lieshout,?,0,?
-Bierbrouwerij De Koningshoeven,Eindhovenseweg 3,Berkel-Enschot,?,?,?
-Bierbrouwerij St.Christoffel,Metaalweg 10,Roermond,?,?,?
-Brouwerij 't IJ,Funenkade 7,Amsterdam,?,0,?
-De Friese Bierbrouwerij Us Heit,Snekerstraat 43,Bolsward,?,?,?
-Grolsche Bierbrouwerij,Brouwerslaan 1,Enschede,Overijssel,7548 XA,?
-Gulpener Bierbrouwerij,Rijksweg 16,Gulpen,?,0,?
-Haarlems Biergenootschap Jopen,R Pereboomweg 13 achter,Haarlem,?,?,?
-Heineken International,?,?,?,?,?
-Hertog Jan,Kruisweg 44,Arcen,?,5944 EN Arcen,?
-Stadsbrouwerij De Hemel,Franseplaats 1,Nijmegen,?,0,?
+Name,Address,City,State,Code,Website,Tags
+Amstel Brouwerij,Antwoordnummer 7181,Amsterdam,?,,?,?
+Bierbrouwerij Bavaria,Burg. van den Heuvelstraat 35,Lieshout,?,0,?,?
+Bierbrouwerij De Koningshoeven,Eindhovenseweg 3,Berkel-Enschot,?,,?,?
+Bierbrouwerij St.Christoffel,Metaalweg 10,Roermond,?,,?,?
+Brouwerij 't IJ,Funenkade 7,Amsterdam,?,0,?,?
+De Friese Bierbrouwerij Us Heit,Snekerstraat 43,Bolsward,?,,?,?
+Grolsche Bierbrouwerij,Brouwerslaan 1,Enschede,?,7548 XA,?,?
+Gulpener Bierbrouwerij,Rijksweg 16,Gulpen,?,0,?,?
+Haarlems Biergenootschap Jopen,R Pereboomweg 13 achter,Haarlem,?,,?,?
+Heineken International,?,?,?,,?,?
+Hertog Jan,Kruisweg 44,Arcen,?,5944 EN Arcen,?,?
+Stadsbrouwerij De Hemel,Franseplaats 1,Nijmegen,?,0,?,?

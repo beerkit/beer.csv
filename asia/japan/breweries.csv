@@ -1,11 +1,11 @@
-Name,Address,City,State,Code,Website
-Asahi Breweries,23-1 Azumabashi 1-chome,Tokyo,Kanto,?,?
-Brauhaus Onuma,Onuma,Onuma,Hokkaido,?,?
-Hida Takayama Brewing Agricultural Company,999 Matsumoto-cho,Takayama,Chubu,?,?
-Keihan Uji Kotsu,?,Uji,Kinki,?,?
-Kirin Brewery Company | Ltd,?,?,?,?,?
-Kiuchi Shuzou Goushi Kaisya,1257 | Kounsosu,Ibaraki,Kanto,?,?
-Nikenjayamochi Kadoya Honten Co.,?,?,?,?,?
-Pokka Beer Works,?,Nagoya,Chubu,?,?
-Sapporo Breweries - Chuo,10-1 Ginza 7-chome | Chuo-ku,Tokyo,Kanto,?,?
-Uehara Shuzou Co. Ltd. / Echigo Beer Pub,Niigata-ken Nishikanbara-gun,?,?, 953-0076,?
+Name,Address,City,State,Code,Website,Tags
+Asahi Breweries,23-1 Azumabashi 1-chome,Tokyo,?,,?,?
+Brauhaus Onuma,Onuma,Onuma,?,,?,?
+Hida Takayama Brewing Agricultural Company,999 Matsumoto-cho,Takayama,?,,?,?
+Keihan Uji Kotsu,?,Uji,?,,?,?
+Kirin Brewery Company | Ltd,?,?,?,,?,?
+Kiuchi Shuzou Goushi Kaisya,1257 | Kounsosu,Ibaraki,?,,?,?
+Nikenjayamochi Kadoya Honten Co.,?,?,?,,?,?
+Pokka Beer Works,?,Nagoya,?,,?,?
+Sapporo Breweries - Chuo,10-1 Ginza 7-chome | Chuo-ku,Tokyo,?,,?,?
+Uehara Shuzou Co. Ltd. / Echigo Beer Pub,Niigata-ken Nishikanbara-gun,?,?, 953-0076,?,?

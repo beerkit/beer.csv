@@ -1,0 +1,25 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Australian Brewing Corporation,Little River,King Lager,5.2%,?,?,north_american_lager|american_style_light_lager
+Coopers Brewery,Regency Park,Birell,0.5%,?,?,north_american_lager|american_style_light_lager
+Coopers Brewery,Regency Park,Coopers Best Extra Stout,6.3%,?,?,north_american_ale|american_style_stout
+Coopers Brewery,Regency Park,Coopers Mild Ale,3.5%,?,?,british_ale|english_style_pale_mild_ale
+Coopers Brewery,Regency Park,Coopers Original Pale Ale,4.5%,?,?,british_ale|classic_english_style_pale_ale
+Coopers Brewery,Regency Park,Coopers Premium Lager,5%,?,?,north_american_lager|american_style_lager
+Coopers Brewery,Regency Park,Coopers Premium Light,2.9%,?,?,north_american_lager|american_style_light_lager
+Coopers Brewery,Regency Park,Coopers Sparkling Ale,5.8%,?,?,british_ale|classic_english_style_pale_ale
+Coopers Brewery,Regency Park,Dark Ale,4.5%,?,?,british_ale|english_style_pale_mild_ale
+Coopers Brewery,Regency Park,Extra Strong Vintage Ale,7.5%,?,?,?
+Foster's Australia Ltd.,?,Foster's Premium Ale,5.5%,?,?,british_ale|classic_english_style_pale_ale
+Foster's Australia Ltd.,?,Foster's Special Bitter,5.5%,?,?,british_ale|ordinary_bitter
+Gold Coast Brewery,Sanctuary Cove,Golden Harvest Weizenbier,?,?,?,german_ale|south_german_style_hefeweizen
+Lion Nathan Australia  Hunter Street,Sydney,Hahn Special Vintage 2000,8%,?,?,british_ale|old_ale
+Little Creatures Brewery,Fremantle,Little Creatures Pilsner,4.6%,?,?,german_lager|german_style_pilsener
+Malt Shovel Brewery,Camperdown,James Squire Australian Best Ale Limited Release,6.8%,?,?,?
+Malt Shovel Brewery,Camperdown,James Squire India Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+Malt Shovel Brewery,Camperdown,James Squire Porter,?,?,?,irish_ale|porter
+Matilda Bay Brewing,North Fremantle,Redback Original Malt Wheat Beer,4.7%,?,?,?
+Scharer's Little Brewery,Picton,Scharer's Lager,5%,?,?,north_american_lager|american_style_lager
+South Australian Brewing,Adelaide,Old Australia Stout,?,?,?,north_american_ale|american_style_stout
+Swan Brewery,Canning Vale,Lager,?,?,?,north_american_lager|american_style_lager
+Tooheys,Sydney,New,4.6%,?,?,north_american_lager|american_style_lager
+Tooth's,Sydney,Sheaf Stout,?,?,?,north_american_ale|american_style_stout

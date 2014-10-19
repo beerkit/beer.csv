@@ -1,0 +1,183 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Adnams & Co.,Southwold,Adnam's Suffolk Special Bitter,4.5%,?,?,british_ale|extra_special_bitter
+Adnams & Co.,Southwold,Adnams Explorer,5.5%,?,?,british_ale|ordinary_bitter
+Adnams & Co.,Southwold,Adnams Fisherman,4.5%,?,?,north_american_ale|american_style_amber_red_ale
+Adnams & Co.,Southwold,Adnams Tally Ho,7.5%,?,?,north_american_ale|american_style_barley_wine_ale
+Adnams & Co.,Southwold,Broadside Ale,6.3%,?,?,british_ale|extra_special_bitter
+Adnams & Co.,Southwold,Nut Brown Ale,3.2%,?,?,north_american_ale|american_style_brown_ale
+Bass Brewers,Burton-upon-Trent,Ale,?,?,?,?
+Bass Brewers,Burton-upon-Trent,Bass Pale Ale,5%,?,?,british_ale|classic_english_style_pale_ale
+Black Sheep Brewery,Ripon,Ale,4.4%,?,?,?
+Black Sheep Brewery,Ripon,Riggwelter Yorkshire Ale,5.7%,?,?,?
+Boddington's Brewery,Manchester,Pub Ale Draught,?,?,?,?
+BrewDog Ltd,Fraserburgh,77 Lager,4.9%,?,?,german_lager|german_style_pilsener
+BrewDog Ltd,Fraserburgh,Dogma,7.8%,?,?,other_style|herb_and_spice_beer
+BrewDog Ltd,Fraserburgh,Hardcore IPA,9%,?,?,north_american_ale|imperial_or_double_india_pale_ale
+BrewDog Ltd,Fraserburgh,Hop Rocker,5.5%,?,?,north_american_lager|american_style_lager
+BrewDog Ltd,Fraserburgh,Paradox Speyside,10%,?,?,north_american_ale|american_style_imperial_stout
+BrewDog Ltd,Fraserburgh,Punk IPA,6%,?,?,north_american_ale|american_style_india_pale_ale
+BrewDog Ltd,Fraserburgh,Rip Tide,8%,?,?,north_american_ale|american_style_imperial_stout
+BrewDog Ltd,Fraserburgh,Tactical Nuclear Penguin,32%,?,?,north_american_ale|american_style_imperial_stout
+BrewDog Ltd,Fraserburgh,The Physics,5%,?,?,british_ale|extra_special_bitter
+BrewDog Ltd,Fraserburgh,Tokyo,12%,?,?,north_american_ale|american_style_imperial_stout
+BrewDog Ltd,Fraserburgh,Tokyo*,18.2%,?,?,north_american_ale|american_style_imperial_stout
+BrewDog Ltd,Fraserburgh,Trashy Blonde,4.1%,?,?,british_ale|special_bitter_or_best_bitter
+Bulmer Cider,Hereford,Strongbow Cider,5.3%,?,?,other_style|fruit_beer
+Burton Bridge Brewery,Burton-upon-Trent,Burton Porter,?,?,?,irish_ale|porter
+Burton Bridge Brewery,Burton-upon-Trent,Empire India Pale Ale,7.5%,?,?,british_ale|english_style_india_pale_ale
+Burton Bridge Brewery,Burton-upon-Trent,Olde Expensive Ale,?,?,?,british_ale|old_ale
+Burton Bridge Brewery,Burton-upon-Trent,Thomas Sykes Barleywine,?,?,?,?
+Cains,Liverpool,2008 Culture Beer,5%,?,?,british_ale|ordinary_bitter
+Cains,Liverpool,Dark Mild,3.2%,?,?,british_ale|english_style_dark_mild_ale
+Cains,Liverpool,FA,4.8%,?,?,british_ale|special_bitter_or_best_bitter
+Cains,Liverpool,Finest Bitter,4%,?,?,british_ale|ordinary_bitter
+Cains,Liverpool,IPA,3.5%,?,?,british_ale|english_style_india_pale_ale
+Camerons Brewery Company,Harltepool,Long Leg English Fuggles Hop Ale,?,?,?,?
+Charles Wells Ltd.,Bedford,Bombardier Premium Ale,5.2%,?,?,?
+Coniston Brewing,Coniston,Old Man Ale,4.8%,?,?,?
+Coniston Brewing,Coniston,Premium XB Bluebird Bitter,4.4%,?,?,?
+Courage Brewery,Tadcaster,John Courage Amber,?,?,?,?
+Daleside Brewery,Harrogate,Monkey Wrench Dark Ale,5.3%,?,?,irish_ale|porter
+Daleside Brewery,Harrogate,Morocco Ale,5.5%,?,?,?
+Daleside Brewery,Harrogate,Old Legover,4.1%,?,?,?
+Daleside Brewery,Harrogate,Ripon Jewel Ale,5.8%,?,?,north_american_ale|american_style_pale_ale
+Eldridge | Pope and Co.,Dorchester,Royal Oak Pale Ale,?,?,?,?
+Elgood & Sons,Wisbech,Flag Porter 1825 Original,?,?,?,irish_ale|porter
+Elgood & Sons,Wisbech,Norvig Ale,?,?,?,?
+Federation Brewery,Gateshead,Angel Ale,?,?,?,british_ale|english_style_pale_mild_ale
+Federation Brewery,Gateshead,Northumbrian Brown Ale,?,?,?,north_american_ale|american_style_brown_ale
+Frederic Robinson Ltd.,Stockport,Double Hop Premium Ale,?,?,?,?
+Frederic Robinson Ltd.,Stockport,Northern Glory Premium Ale,?,?,?,?
+Frederic Robinson Ltd.,Stockport,Old Tom Barley Wine,8.5%,?,?,?
+Freeminer Brewery,Cinderford,Deep Shaft Stout,6.2%,?,?,north_american_ale|american_style_stout
+Freeminer Brewery,Cinderford,Trafalgar IPA,6%,?,?,north_american_ale|american_style_india_pale_ale
+Fuller | Smith & Turner PBC,London,1845 Celebration Ale,?,?,?,?
+Fuller | Smith & Turner PBC,London,Fuller's ESB,4.5%,?,?,british_ale|extra_special_bitter
+Fuller | Smith & Turner PBC,London,India Pale Ale,4.8%,?,?,north_american_ale|american_style_pale_ale
+Fuller | Smith & Turner PBC,London,London Porter,5.4%,?,?,irish_ale|porter
+Fuller | Smith & Turner PBC,London,London Pride,4.7%,?,?,?
+Fuller | Smith & Turner PBC,London,Refreshing Summer Ale,3.9%,?,?,?
+Fuller | Smith & Turner PBC,London,Vintage Ale 1999,8.5%,?,?,british_ale|old_ale
+Fuller | Smith & Turner PBC,London,Vintage Ale 2008,8.5%,?,?,british_ale|old_ale
+George Bateman and Son Ltd.,Skegness,Victory Ale,5.2%,?,?,?
+George Gale & Company,Portsmouth,Conquest Ale,9%,?,?,british_ale|old_ale
+George Gale & Company,Portsmouth,Horndean Special Bitter / HSB,?,?,?,?
+George Gale & Company,Portsmouth,Millennium Brew,10%,?,?,?
+George Gale & Company,Portsmouth,Prize Old Ale,9%,?,?,british_ale|old_ale
+Greene King,Bury St. Edmunds,Abbot Ale,?,?,?,?
+Greene King,Bury St. Edmunds,Olde Suffolk,?,?,?,british_ale|old_ale
+Greene King,Bury St. Edmunds,St. Edmund English Ale,5.5%,?,?,?
+Greene King,Bury St. Edmunds,Wexford Irish Cream Ale,5%,?,?,other_style|american_style_cream_ale_or_lager
+HP Bulmer,Hereford,Woodpecker,?,?,?,?
+Hambleton Ales,Melmerby,Nightmare,5%,?,?,irish_ale|porter
+Hambleton Ales,Melmerby,Toleration,4.4%,?,?,?
+Hampshire Brewery,Romsey,Pride of Romsey IPA,5%,?,?,north_american_ale|american_style_india_pale_ale
+Harvey & Son (Lewes),Lewes,A. LeCoq Imperial Extra Double Stout 1999,9%,?,?,north_american_ale|american_style_stout
+Harvey & Son (Lewes),Lewes,A. LeCoq Imperial Extra Double Stout 2000,9%,?,?,north_american_ale|american_style_stout
+Harvey & Son (Lewes),Lewes,Christmas Ale,8.1%,?,?,?
+Harvey & Son (Lewes),Lewes,Elizabethan Ale,8.1%,?,?,?
+Hook Norton Brewery,Hook Norton,Best Bitter,3.4%,?,?,?
+Hook Norton Brewery,Hook Norton,Generation,4%,?,?,?
+Hook Norton Brewery,Hook Norton,Old Hooky,4.6%,?,?,?
+Hook Norton Brewery,Hook Norton,Twelve Days,5.5%,?,?,north_american_ale|american_style_stout
+Hop Back Brewery,Salisbury,Entire Stout,4.5%,?,?,north_american_ale|american_style_stout
+Hop Back Brewery,Salisbury,Pickled Santa,6%,?,?,?
+Hop Back Brewery,Salisbury,Summer Lightning,5%,?,?,?
+Hop Back Brewery,Salisbury,Thunder Storm,5%,?,?,north_american_lager|american_style_lager
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 1997,11.5%,?,?,british_ale|old_ale
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 1998,11.5%,?,?,british_ale|old_ale
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 1999,11.5%,?,?,british_ale|old_ale
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 2000,11.5%,?,?,british_ale|old_ale
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 2001,11.5%,?,?,british_ale|old_ale
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 2002,11.5%,?,?,british_ale|old_ale
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 2005,11.5%,?,?,british_ale|old_ale
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 2005 (Calvados),11.5%,?,?,?
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 2005 (Port),11.5%,?,?,?
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 2005 (Sherry),11.5%,?,?,?
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 2005 (Whisky),11.5%,?,?,?
+JW Lees and Co (Brewers) Ltd.,Manchester,Harvest Ale 2006,11.6%,?,?,british_ale|old_ale
+JW Lees and Co (Brewers) Ltd.,Manchester,Manchester Star Ale,7.3%,?,?,british_ale|old_ale
+JW Lees and Co (Brewers) Ltd.,Manchester,Moonraker,7.5%,?,?,?
+Jennings Brewery,Cockermouth,Sneck Lifter,5.1%,?,?,north_american_ale|dark_american_belgo_style_ale
+King and Barnes,Horsham,Worthington White Shield,?,?,?,?
+Lanchester Brewing,Durham,Storm Super Premium Malt Liquor,10%,?,?,north_american_lager|american_style_lager
+McMullen & Sons,Hertford,AK Original Bitter,?,?,?,?
+McMullen & Sons,Hertford,Special Reserve Anniversary Porter,?,?,?,irish_ale|porter
+McMullen & Sons,Hertford,Special Reserve Oatmeal Ale,?,?,?,north_american_ale|american_style_pale_ale
+Meantime Brewing Company Limited,Greenwich,India Pale Ale,7.5%,?,?,north_american_ale|american_style_pale_ale
+Meantime Brewing Company Limited,Greenwich,London Porter,6.5%,?,?,irish_ale|porter
+Meantime Brewing Company Limited,Greenwich,Meantime Coffee,6%,?,?,irish_ale|porter
+Moorhouse's Brewery (Burnley),Burnley,Black Cat,3.4%,?,?,british_ale|english_style_pale_mild_ale
+Moorhouse's Brewery (Burnley),Burnley,Pendle Witches Brew,5.1%,?,?,north_american_ale|american_style_pale_ale
+Mordue Brewery,Wallsend,Radgie Gadgie,?,?,?,?
+Morland and Co.,Abingdon,Old Speckled Hen,5.2%,?,?,british_ale|classic_english_style_pale_ale
+Morland and Co.,Abingdon,Tanners Jack,4.4%,?,?,?
+Nethergate Brewery Co Ltd,Pentlow,Augustinian Ale,5.2%,?,?,?
+Nethergate Brewery Co Ltd,Pentlow,Old Growler,6.5%,?,?,irish_ale|porter
+Oakham Ales,Peterborough,Jeffrey Hudson Bitter,?,?,?,?
+RCH Brewery,Weston-super-Mare,Ale Mary,6%,?,?,north_american_ale|american_style_pale_ale
+RCH Brewery,Weston-super-Mare,Old Slug Porter,4.5%,?,?,irish_ale|porter
+RCH Brewery,Weston-super-Mare,Pitchfork Rebellious Bitter,4.3%,?,?,?
+Ridgeway Brewing,South Stoke,Bitter,4%,?,?,?
+Ridgeway Brewing,South Stoke,Criminally Bad Elf,10.5%,?,?,?
+Ridgeway Brewing,South Stoke,IPA,5.5%,?,?,north_american_ale|american_style_india_pale_ale
+Ridgeway Brewing,South Stoke,Ivanhoe,5.2%,?,?,north_american_ale|american_style_pale_ale
+Ridgeway Brewing,South Stoke,Lump of Coal Dark Holiday Stout,8%,?,?,north_american_ale|american_style_stout
+Ridgeway Brewing,South Stoke,Seriously Bad Elf,9%,?,?,?
+Ridgeway Brewing,South Stoke,Very Bad Elf Special Reserve Ale,7.5%,?,?,?
+Ridgeway Brewing,South Stoke,Warm Welcome Nut Browned Ale,6%,?,?,north_american_ale|american_style_brown_ale
+Salopian Brewery,Shrewsbury,Entire Butt English Porter,?,?,?,irish_ale|porter
+Samuel Smith Old Brewery (Tadcaster),Tadcaster,Imperial Stout,7%,?,?,north_american_ale|american_style_stout
+Samuel Smith Old Brewery (Tadcaster),Tadcaster,India Ale,?,?,?,north_american_ale|american_style_pale_ale
+Samuel Smith Old Brewery (Tadcaster),Tadcaster,Nut Brown Ale,5%,?,?,north_american_ale|american_style_brown_ale
+Samuel Smith Old Brewery (Tadcaster),Tadcaster,Oatmeal Stout,5%,?,?,north_american_ale|american_style_stout
+Samuel Smith Old Brewery (Tadcaster),Tadcaster,Organic Ale,5%,?,?,north_american_ale|golden_or_blonde_ale
+Samuel Smith Old Brewery (Tadcaster),Tadcaster,Taddy Porter,5%,?,?,irish_ale|porter
+Samuel Smith Old Brewery (Tadcaster),Tadcaster,Winter Welcome 1996-1997,?,?,?,?
+Samuel Smith Old Brewery (Tadcaster),Tadcaster,Winter Welcome 2007-2008,6%,?,?,?
+Samuel Smith Old Brewery (Tadcaster),Tadcaster,Winter Welcome 2008-2009,6%,?,?,other_style|winter_warmer
+Sarah Hughes Brewery,Dudley,Dark Ruby Ale,?,?,?,?
+Scottish & Newcastle Breweries,Newcastle-upon-Tyne,Newcastle Brown Ale,4.7%,?,?,north_american_ale|american_style_brown_ale
+Shepherd Neame,Faversham,Bishops Finger Kentish Strong Ale,5.4%,?,?,?
+Shepherd Neame,Faversham,Master Brew Bitter,4%,?,?,?
+Shepherd Neame,Faversham,Spitfire Premium Kentish Strong Ale,4.5%,?,?,?
+St Peter's Brewery,Bungay,Cream Stout,6.5%,?,?,north_american_ale|american_style_stout
+St Peter's Brewery,Bungay,English Ale,?,?,?,north_american_ale|american_style_pale_ale
+St Peter's Brewery,Bungay,Golden Ale,4.7%,?,?,?
+St Peter's Brewery,Bungay,India Pale Ale,?,?,?,north_american_ale|american_style_pale_ale
+St Peter's Brewery,Bungay,Old-Style Porter,5.1%,?,?,irish_ale|porter
+St Peter's Brewery,Bungay,St Peter's Organic Ale,4.5%,?,?,british_ale|classic_english_style_pale_ale
+St Peter's Brewery,Bungay,Winter Ale,6.3%,?,?,british_ale|old_ale
+St. Austell Brewery,St. Austell,HSD Hicks Special Draught,5%,?,?,british_ale|ordinary_bitter
+St. Austell Brewery,St. Austell,Proper Job,5.5%,?,?,british_ale|english_style_india_pale_ale
+St. Austell Brewery,St. Austell,Tribute Premium Cornish Ale,4.2%,?,?,british_ale|ordinary_bitter
+T&R; Theakston,Ripon,Old Peculier,5.7%,?,?,?
+Tollemache and Cobbold Brewery,Ipswich,IPA,?,?,?,north_american_ale|american_style_india_pale_ale
+Ushers of Trowbridge,Trowbridge,IPA,?,?,?,north_american_ale|american_style_india_pale_ale
+WH Brakspear & Sons,Henley-on-Thames,Coniston Bluebird Bitter,?,?,?,?
+WH Brakspear & Sons,Henley-on-Thames,Henley Ale,?,?,?,?
+Watney Brewery,London,Red Barrel,?,?,?,?
+Wells and (&) Youngs Brewing Company Ltd.,?,Wells Banana Bread Beer,5.2%,?,?,other_style|fruit_beer
+Wells and (&) Youngs Brewing Company Ltd.,?,Wells Bombardier English Bitter,5.2%,?,?,british_ale|special_bitter_or_best_bitter
+Wells and (&) Youngs Brewing Company Ltd.,?,Young's Winter Warmer,5.2%,?,?,other_style|winter_warmer
+Whim Ales,Buxton,Old Izaak,?,?,?,?
+Whitbread Beer Company,Luton,Ale,?,?,?,?
+Whitbread Beer Company,Luton,Mackeson XXX Stout,4.9%,?,?,british_ale|sweet_stout
+Whitstable Brewery,Maidstone,East India IPA,?,?,?,north_american_ale|american_style_india_pale_ale
+Whitstable Brewery,Maidstone,Whitstable Oyster Stout,?,?,?,north_american_ale|american_style_stout
+Woodforde's Norfolk Ales,Norwich,Norfolk Nog Old Dark Ale,99.99%,?,?,british_ale|old_ale
+Wychwood Brewery,Witney,Bah Humbug,6%,?,?,british_ale|old_ale
+Wychwood Brewery,Witney,Black Wych Stout,?,?,?,north_american_ale|american_style_stout
+Wychwood Brewery,Witney,Hobgoblin,5.5%,?,?,north_american_ale|dark_american_belgo_style_ale
+Wychwood Brewery,Witney,Old Devil,?,?,?,british_ale|english_style_pale_mild_ale
+Wychwood Brewery,Witney,Scarecrow Ale,?,?,?,?
+Wychwood Brewery,Witney,Wychcraft,?,?,?,?
+Wychwood Brewery Company Ltd,?,Duchy Originals Organic English Ale,5%,?,?,british_ale|extra_special_bitter
+Wye Valley Brewery,Stoke Lacy,Butty Bach,4.5%,?,?,?
+York Brewery,York,Yorkshire Terrier Premium Cask Bitter,4.2%,?,?,?
+Youngs & Company Brewery,London,Double Chocolate Stout,5.2%,?,?,british_ale|sweet_stout
+Youngs & Company Brewery,London,Oatmeal Stout,5.2%,?,?,north_american_ale|american_style_stout
+Youngs & Company Brewery,London,Old Nick,7.2%,?,?,?
+Youngs & Company Brewery,London,Ramrod Special Bitter Ale,5%,?,?,?
+Youngs & Company Brewery,London,Special London Ale,6.4%,?,?,british_ale|old_ale
+Youngs & Company Brewery,London,Winter Warmer,5.2%,?,?,british_ale|old_ale

@@ -1,12 +1,12 @@
-Name,Address,City,State,Code,Website
-Brasserie Bnifontaine,13 | rue Pasteur,Bnifontaine,?,?,?
-Brasserie De Saint Sylvestre,121 | rue de la Chapelle,St-Sylvestre-Cappel,?,?,?
-Brasserie Duyck,113 | rte Nationale,Jenlain,?,?,?
-Brasserie Grain D'Orge,?,Ronchin,?,?,?
-Brasserie La Choulette,16 rue des Ecoles,Hordain,?,?,?
-Brasserie Pietra,Route de la Marana,Furiani,?,?,?
-Brasserie Thiriez,22 rue Wormhout,Esquelbecq,?,?,?
-Brasserie des Cimes,152 Avenue St Simond,Aix les Bains,?,?,?
-Brasserie des Vosges,680 rue de la Brasserie,Dommartin les Remiremont,?,?,?
-Brasserie du Bouffay,54 Rue des Monceaux,Carquefou,?,44470,?
-Brasseries Kronenbourg,68 route d'Oberhausbergen,Strasbourg,?,?,?
+Name,Address,City,State,Code,Website,Tags
+Brasserie Bnifontaine,13 | rue Pasteur,Bnifontaine,?,,?,?
+Brasserie De Saint Sylvestre,121 | rue de la Chapelle,St-Sylvestre-Cappel,?,,?,?
+Brasserie Duyck,113 | rte Nationale,Jenlain,?,,?,?
+Brasserie Grain D'Orge,?,Ronchin,?,,?,?
+Brasserie La Choulette,16 rue des Ecoles,Hordain,?,,?,?
+Brasserie Pietra,Route de la Marana,Furiani,?,,?,?
+Brasserie Thiriez,22 rue Wormhout,Esquelbecq,?,,?,?
+Brasserie des Cimes,152 Avenue St Simond,Aix les Bains,?,,?,?
+Brasserie des Vosges,680 rue de la Brasserie,Dommartin les Remiremont,?,,?,?
+Brasserie du Bouffay,54 Rue des Monceaux,Carquefou,?,44470,?,?
+Brasseries Kronenbourg,68 route d'Oberhausbergen,Strasbourg,?,,?,?

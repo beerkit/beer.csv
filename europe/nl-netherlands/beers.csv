@@ -1,0 +1,30 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Amstel Brouwerij,Amsterdam,Amstel Light,3.5%,?,?,north_american_lager|american_style_light_lager
+Bierbrouwerij Bavaria,Lieshout,De Horste Vermeer Traditional Dutch Ale,8%,?,?,?
+Bierbrouwerij Bavaria,Lieshout,Holland Beer,?,?,?,?
+Bierbrouwerij Bavaria,Lieshout,Hollandia,?,?,?,north_american_lager|american_style_lager
+Bierbrouwerij De Koningshoeven,Berkel-Enschot,Dubbel,7%,?,?,?
+Bierbrouwerij De Koningshoeven,Berkel-Enschot,La Trappe Dubbel,6.5%,?,?,belgian_and_french_ale|belgian_style_dubbel
+Bierbrouwerij De Koningshoeven,Berkel-Enschot,La Trappe Enkel / La Trappe Blond,6.5%,?,?,north_american_ale|golden_or_blonde_ale
+Bierbrouwerij De Koningshoeven,Berkel-Enschot,La Trappe Quadrupel 2000/2001,10%,?,?,?
+Bierbrouwerij De Koningshoeven,Berkel-Enschot,La Trappe Tripel,8%,?,?,belgian_and_french_ale|belgian_style_tripel
+Bierbrouwerij De Koningshoeven,Berkel-Enschot,Quadrupel,10%,?,?,?
+Bierbrouwerij De Koningshoeven,Berkel-Enschot,Tilburg's Dutch Brown Ale,5%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Bierbrouwerij De Koningshoeven,Berkel-Enschot,Tripel,8%,?,?,?
+Bierbrouwerij St.Christoffel,Roermond,Christoffel Blond,6%,?,?,north_american_ale|golden_or_blonde_ale
+Bierbrouwerij St.Christoffel,Roermond,Robertus,6%,?,?,north_american_lager|american_style_lager
+Brouwerij 't IJ,Amsterdam,Zatte Amsterdamse Tripel,8%,?,?,?
+De Friese Bierbrouwerij Us Heit,Bolsward,Us Heit Dubbel Tarwe Bier,?,?,?,german_ale|south_german_style_weizenbock
+Grolsche Bierbrouwerij,Enschede,Grolsch Amber Ale,5.3%,?,?,german_ale|german_style_brown_ale_altbier
+Grolsche Bierbrouwerij,Enschede,Grolsch Dunkel Weizen,5.5%,?,?,other_style|light_american_wheat_ale_or_lager
+Grolsche Bierbrouwerij,Enschede,Grolsch Pilsner Speciale,5.5%,?,?,german_lager|german_style_pilsener
+Grolsche Bierbrouwerij,Enschede,Grolsch Premium Pilsner,5%,?,?,german_lager|german_style_pilsener
+Grolsche Bierbrouwerij,Enschede,Grolsch Premium Weizen,5.5%,?,?,other_style|light_american_wheat_ale_or_lager
+Gulpener Bierbrouwerij,Gulpen,Dort,6.5%,?,?,german_lager|traditional_german_style_bock
+Gulpener Bierbrouwerij,Gulpen,Mestreechs Aajt,3.5%,?,?,?
+Haarlems Biergenootschap Jopen,Haarlem,Adriaan,5%,?,?,?
+Heineken International,?,Dark Lager,?,?,?,?
+Heineken International,?,Heineken,5%,?,?,north_american_lager|american_style_lager
+Heineken International,?,Lager Beer,?,?,?,?
+Heineken International,?,Premium Light Lager Beer,?,?,?,north_american_lager|american_style_lager
+Stadsbrouwerij De Hemel,Nijmegen,Nieuw Ligt Grand Cru 2006,12%,?,?,?

@@ -1,0 +1,23 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Aass Brewery,Drammen,Bock Beer,5.9%,?,?,german_lager|traditional_german_style_bock
+Aass Brewery,Drammen,Classic Special Brew,?,?,?,north_american_lager|american_style_lager
+Aass Brewery,Drammen,Genuine Pilsner,5.5%,?,?,german_lager|german_style_pilsener
+Aass Brewery,Drammen,Gull Classic,5.5%,?,?,north_american_lager|american_style_lager
+Aass Brewery,Drammen,JuleÃ¸l,5.9%,?,?,north_american_ale|dark_american_belgo_style_ale
+Hansa Bryggeri,Bergen,FatÃ¸l,?,?,?,?
+Hansa Bryggeri,Bergen,Pilsner,?,?,?,?
+Hansa Bryggeri,Bergen,Premium,4.5%,?,?,?
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,God Jul - Winter Ale,8.5%,?,?,north_american_ale|american_style_stout
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,Havre Stout,4.5%,?,?,british_ale|oatmeal_stout
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ #100,10%,?,?,north_american_ale|american_style_barley_wine_ale
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Amber Ale,6%,?,?,north_american_ale|american_style_amber_red_ale
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Bitter,4.5%,?,?,british_ale|ordinary_bitter
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Brown Ale,4.5%,?,?,north_american_ale|american_style_brown_ale
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Doppelt IPA,8%,?,?,north_american_ale|imperial_or_double_india_pale_ale
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Imperial Brown Ale,7.5%,?,?,north_american_ale|american_style_brown_ale
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Imperial Stout,9%,?,?,north_american_ale|american_style_imperial_stout
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ India Pale Ale,6.5%,?,?,north_american_ale|american_style_india_pale_ale
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Pale Ale,6%,?,?,north_american_ale|american_style_pale_ale
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Porter,7%,?,?,irish_ale|porter
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Saison,6.5%,?,?,belgian_and_french_ale|french_&_belgian_style_saison
+NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,NÃ¸gne Ã˜ Wit,4.5%,?,?,belgian_and_french_ale|belgian_style_white

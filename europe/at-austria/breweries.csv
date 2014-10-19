@@ -1,11 +1,11 @@
-Name,Address,City,State,Code,Website
-Brauerei Grieskirchen AG,Stadtplatz 14,Grieskirchen,?,?,?
-Brauerei Gss,Brauhausgasse 1,Leoben-Gss,?,?,?
-Brauerei Wieselburg,?,Wieselburg,?,3250,?
-Brausttte der Steirerbrau Aktiengesellschaft,Reiningshausstrae 1-7,Graz,?,?,?
-Hofbru Kaltenhausen Salzachtal,Salzachtal Bundesstrae Nord 37,Hallein,?,?,?
-Mohrenbrauerei August Huber,Doktor-Waibel-Strae 2,Dornbirn,?,?,?
-Ottakringer Brauerei AG,Ottakringerstrasse 91,Wien,?,?,?
-Schloss Eggenberg,Eggenberg 1,Vorchdorf,?,?,?
-Schlossbru,Oberdorferstrae 9,Dornbirn,?,?,?
-Stieglbrauerei zu Salzburg GmbH,KendlerstraÃŸe 1,Salzburg,?,?,?
+Name,Address,City,State,Code,Website,Tags
+Brauerei Grieskirchen AG,Stadtplatz 14,Grieskirchen,?,,?,?
+Brauerei Gss,Brauhausgasse 1,Leoben-Gss,?,,?,?
+Brauerei Wieselburg,?,Wieselburg,?,3250,?,?
+Brausttte der Steirerbrau Aktiengesellschaft,Reiningshausstrae 1-7,Graz,?,,?,?
+Hofbru Kaltenhausen Salzachtal,Salzachtal Bundesstrae Nord 37,Hallein,?,,?,?
+Mohrenbrauerei August Huber,Doktor-Waibel-Strae 2,Dornbirn,?,,?,?
+Ottakringer Brauerei AG,Ottakringerstrasse 91,Wien,?,,?,?
+Schloss Eggenberg,Eggenberg 1,Vorchdorf,?,,?,?
+Schlossbru,Oberdorferstrae 9,Dornbirn,?,,?,?
+Stieglbrauerei zu Salzburg GmbH,KendlerstraÃŸe 1,Salzburg,?,,?,?

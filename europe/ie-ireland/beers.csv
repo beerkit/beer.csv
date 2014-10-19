@@ -1,0 +1,17 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Arthur Guinness & Son,Dublin,Foreign Extra Stout,7.5%,?,?,irish_ale|foreign_(export)_style_stout
+Arthur Guinness & Son,Dublin,Guinness 250th Anniversary Stout,5%,?,?,north_american_ale|american_style_stout
+Arthur Guinness & Son,Dublin,Guinness Draught,4.3%,?,?,north_american_ale|american_style_stout
+Arthur Guinness & Son,Dublin,Guinness Draught,4.3%,?,?,irish_ale|classic_irish_style_dry_stout
+Arthur Guinness & Son,Dublin,Guinness Extra Stout,5%,?,?,north_american_ale|american_style_stout
+Arthur Guinness & Son,Dublin,Harp Lager,5%,?,?,north_american_lager|american_style_lager
+Beamish & Crawford,Cork,Genuine Irish Stout,4.1%,?,?,north_american_ale|american_style_stout
+Biddy Early Brewery,Ennis,Red Biddy / Real Biddy,4.9%,?,?,?
+Carlow Brewing Company,Carlow,O'Hara's Celtic Stout,4.3%,?,?,north_american_ale|american_style_stout
+Dublin Brewing,Dublin,1798 Revolution,?,?,?,british_ale|english_style_pale_mild_ale
+St. Francis Abbey Brewery,Kilkenny,Smithwick's,4.5%,?,?,irish_ale|irish_style_red_ale
+Strangford Lough Brewing Company Ltd,Killyleagh,Barelegs Brew,4.5%,?,?,british_ale|classic_english_style_pale_ale
+Strangford Lough Brewing Company Ltd,Killyleagh,Legbiter Ale,4.7%,?,?,british_ale|classic_english_style_pale_ale
+Strangford Lough Brewing Company Ltd,Killyleagh,St Patrick's Ale,6%,?,?,british_ale|classic_english_style_pale_ale
+Strangford Lough Brewing Company Ltd,Killyleagh,St. Patrick's Best,4.2%,?,?,british_ale|ordinary_bitter
+Strangford Lough Brewing Company Ltd,Killyleagh,St. Patrick's Gold,4.8%,?,?,other_style|light_american_wheat_ale_or_lager

@@ -1,0 +1,26 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Brauerei Grieskirchen AG,Grieskirchen,JÃ¶rger WeiÃŸe Hell,?,?,?,german_ale|south_german_style_hefeweizen
+Brauerei Gss,Leoben-Gss,Dark Beer / StiftsbrÃ¤u,?,?,?,?
+Brausttte der Steirerbrau Aktiengesellschaft,Graz,GÃ¶sser,?,?,?,?
+Hofbru Kaltenhausen Salzachtal,Hallein,Edelweiss Dunkel Weissbier,?,?,?,?
+Hofbru Kaltenhausen Salzachtal,Hallein,Edelweiss HefetrÃ¼b,?,?,?,german_ale|south_german_style_hefeweizen
+Mohrenbrauerei August Huber,Dornbirn,Gambrinus,4.6%,?,?,?
+Mohrenbrauerei August Huber,Dornbirn,NaturtrÃ¼bes Kellerbier,?,?,?,german_lager|traditional_german_style_bock
+Mohrenbrauerei August Huber,Dornbirn,Spezial,5.6%,?,?,?
+Ottakringer Brauerei AG,Wien,Ottakringer Helles,5.1%,?,?,?
+Schloss Eggenberg,Vorchdorf,Doppelbock Dunkel,8.5%,?,?,german_lager|german_style_doppelbock
+Schloss Eggenberg,Vorchdorf,Samichlaus Bier 2003,14%,?,?,german_lager|traditional_german_style_bock
+Schloss Eggenberg,Vorchdorf,Samichlaus Bier 2005,14%,?,?,german_lager|traditional_german_style_bock
+Schloss Eggenberg,Vorchdorf,Samichlaus Bier 2006,14%,?,?,?
+Schloss Eggenberg,Vorchdorf,Urbock 23Â°,9.6%,?,?,german_lager|german_style_doppelbock
+Schlossbru,Dornbirn,Naturtrubes,5.1%,?,?,?
+Schlossbru,Dornbirn,Spezial,5.5%,?,?,?
+Schlossbru,Dornbirn,Stout,5%,?,?,north_american_ale|american_style_stout
+Schlossbru,Dornbirn,Weizen,5%,?,?,german_ale|south_german_style_hefeweizen
+Stieglbrauerei zu Salzburg GmbH,Salzburg,Columbus Bock,?,?,?,german_lager|traditional_german_style_bock
+Stieglbrauerei zu Salzburg GmbH,Salzburg,Columbus Pils,4.9%,?,?,german_lager|german_style_pilsener
+Stieglbrauerei zu Salzburg GmbH,Salzburg,Paracelsus Zwickl,5%,?,?,?
+Stieglbrauerei zu Salzburg GmbH,Salzburg,Stiegl GoldbrÃ¤u,4.9%,?,?,german_lager|german_style_oktoberfest
+Stieglbrauerei zu Salzburg GmbH,Salzburg,Stiegl Leicht,3.3%,?,?,north_american_lager|american_style_light_lager
+Stieglbrauerei zu Salzburg GmbH,Salzburg,Weizengold Dunkel,?,?,?,?
+Stieglbrauerei zu Salzburg GmbH,Salzburg,Weizengold Hefefein,5.1%,?,?,german_ale|south_german_style_hefeweizen

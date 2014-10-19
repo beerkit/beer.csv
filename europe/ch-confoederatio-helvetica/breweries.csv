@@ -1,11 +1,11 @@
-Name,Address,City,State,Code,Website
-Brasserie des Franches-Montagnes,Chemin des Buissons 8,Saignelgier,?,?,?
-Brauerei Hrlimann,Brandschenkestrasse 150,Zrich,?,?,?
-Brauerei Locher AG,Alte Eggerstandenstrasse 1,Appenzell,?,?,?
-Brauerei Schtzengarten,St. Jakobstrasse 37,Sankt-Gallen,?,?,?
-Brauhaus Sternen,Hohenzornstrasse 2,Frauenfeld,?,?,?
-Gasthof-Brauerei zum Frohsinn,Romanshornerstrasse 15,Arbon,?,?,?
-Heineken Switzerland,Haldenstrasse 69,Winterthur,?,?,?
-Lwenbru Zrich,Brandschenkestrasse 150,Zrich,?,?,?
-Steinfels Back & Brau,?,Zrich,?,?,?
-Wdi-Bru-Huus,Florhofstrasse 13,Wdenswil,?,?,?
+Name,Address,City,State,Code,Website,Tags
+Brasserie des Franches-Montagnes,Chemin des Buissons 8,Saignelgier,?,,?,?
+Brauerei Hrlimann,Brandschenkestrasse 150,Zrich,?,,?,?
+Brauerei Locher AG,Alte Eggerstandenstrasse 1,Appenzell,?,,?,?
+Brauerei Schtzengarten,St. Jakobstrasse 37,Sankt-Gallen,?,,?,?
+Brauhaus Sternen,Hohenzornstrasse 2,Frauenfeld,?,,?,?
+Gasthof-Brauerei zum Frohsinn,Romanshornerstrasse 15,Arbon,?,,?,?
+Heineken Switzerland,Haldenstrasse 69,Winterthur,?,,?,?
+Lwenbru Zrich,Brandschenkestrasse 150,Zrich,?,,?,?
+Steinfels Back & Brau,?,Zrich,?,,?,?
+Wdi-Bru-Huus,Florhofstrasse 13,Wdenswil,?,,?,?

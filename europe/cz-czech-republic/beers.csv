@@ -1,0 +1,18 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Brewery Budweiser Budvar,?,Budweiser Budvar (Czechvar),5%,?,?,german_lager|german_style_pilsener
+Breznak,?,Breznak Dunkles/Dark,3.7%,?,?,north_american_ale|dark_american_belgo_style_ale
+Budjovick Mansk Pivovar,esk Budjovice,Samson Crystal Diplomat Dark Beer,?,?,?,?
+Budjovick Mansk Pivovar,esk Budjovice,Samson Crystal Lager Beer,5%,?,?,?
+KrÃ¡lovskÃ½ pivovar KruÅ¡ovice,KruÅ¡ovice,Imperial Czech Premium Lager,?,?,?,north_american_lager|american_style_lager
+Pivovar Hradec Krlov,Hradec Krlov,Black Lion Lev Czech Premium Dark Beer,?,?,?,?
+Pivovar Hradec Krlov,Hradec Krlov,Lion Lev Export Lager,?,?,?,?
+Pivovar Hradec Krlov,Hradec Krlov,Lion Lev Export Lager Beer Double Bock,?,?,?,german_lager|traditional_german_style_bock
+Pivovar Klter Hradit,Klter Hradit nad Jizerou,TmavÃ© 10% / Dark Beer,?,?,?,?
+Pivovar Nchod,Nchod,PrimÃ¡tor Blonde Bock Beer,?,?,?,german_lager|traditional_german_style_bock
+Pivovar Nchod,Nchod,PrimÃ¡tor Double 24% / PrimÃ¡tor Double Bock Beer,?,?,?,german_lager|traditional_german_style_bock
+Pivovar Pardubice a.s.,Pardubice,Porter Boom,8%,?,?,irish_ale|porter
+Pivovar Starobrno,Brno,Czech Premium Lager,?,?,?,?
+Pivovar Velk Popovice,Velk Popovice,Kozel Premium,5%,?,?,?
+Pivovary Staropramen,Praha,Staropramen,5%,?,?,german_lager|german_style_pilsener
+Plzesk Prazdroj,Plze,Pilsner Urquell,4.4%,?,?,german_lager|german_style_pilsener
+Plzesk Prazdroj Pivovar Radegast,Noovice,Premium,5.1%,?,?,?

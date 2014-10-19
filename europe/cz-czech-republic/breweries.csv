@@ -1,19 +1,19 @@
-Name,Address,City,State,Code,Website
-Brewery Budweiser Budvar,?,?,Ceske Budejovice,?,?
-Breznak,?,?,?,?,?
-Budjovick Budvar,Karoliny Svtl 4,esk Budjovice,?,?,?
-Budjovick Mansk Pivovar,Lidick  51,esk Budjovice,?,?,?
-KrÃ¡lovskÃ½ pivovar KruÅ¡ovice,270 53,KruÅ¡ovice,?,?,?
-Lobkowiczk Pivovar Vysok Chlumec,CZ-262 52 Vysok Chlumec,Vysok Chlumec,?,?,?
-Pivovar Herold Beznice,Nadrazni ul.,Beznice,?,?,?
-Pivovar Hradec Krlov,?,Hradec Krlov,?,?,?
-Pivovar Klter Hradit,CZ-294 15 Klter Hradit nad Jizerou,Klter Hradit nad Jizerou,?,?,?
-Pivovar Nchod,Dobroovsk 130,Nchod,?,?,?
-Pivovar Pardubice a.s.,Palackho 250,Pardubice,?,?,?
-Pivovar Podkov,Dkansk 201/10,Praha,?,?,?
-Pivovar Starobrno,Hlinky 12,Brno,?,?,?
-Pivovar Velk Popovice,Ringhofferova 1,Velk Popovice,?,?,?
-Pivovary Staropramen,Nadrazni 84,Praha,?,150 54,?
-Plzesk Prazdroj,U Prazdroje 7,Plze,?,?,?
-Plzesk Prazdroj Pivovar Radegast,CZ-739 51 Noovice,Noovice,?,?,?
-ateck Pivovar,ikovo nmst 81,atec,?,?,?
+Name,Address,City,State,Code,Website,Tags
+Brewery Budweiser Budvar,?,?,?,,?,?
+Breznak,?,?,?,,?,?
+Budjovick Budvar,Karoliny Svtl 4,esk Budjovice,?,,?,?
+Budjovick Mansk Pivovar,Lidick  51,esk Budjovice,?,,?,?
+KrÃ¡lovskÃ½ pivovar KruÅ¡ovice,270 53,KruÅ¡ovice,?,,?,?
+Lobkowiczk Pivovar Vysok Chlumec,CZ-262 52 Vysok Chlumec,Vysok Chlumec,?,,?,?
+Pivovar Herold Beznice,Nadrazni ul.,Beznice,?,,?,?
+Pivovar Hradec Krlov,?,Hradec Krlov,?,,?,?
+Pivovar Klter Hradit,CZ-294 15 Klter Hradit nad Jizerou,Klter Hradit nad Jizerou,?,,?,?
+Pivovar Nchod,Dobroovsk 130,Nchod,?,,?,?
+Pivovar Pardubice a.s.,Palackho 250,Pardubice,?,,?,?
+Pivovar Podkov,Dkansk 201/10,Praha,?,,?,?
+Pivovar Starobrno,Hlinky 12,Brno,?,,?,?
+Pivovar Velk Popovice,Ringhofferova 1,Velk Popovice,?,,?,?
+Pivovary Staropramen,Nadrazni 84,Praha,?,150 54,?,?
+Plzesk Prazdroj,U Prazdroje 7,Plze,?,,?,?
+Plzesk Prazdroj Pivovar Radegast,CZ-739 51 Noovice,Noovice,?,,?,?
+ateck Pivovar,ikovo nmst 81,atec,?,,?,?
